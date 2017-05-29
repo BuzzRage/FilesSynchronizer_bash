@@ -1,0 +1,14 @@
+- rw-r--r-- A 0 17 juin 20:47 /home/buzzrage/test_LO14/Projet/A
+d rwxr-xr-x test1/ 4,0K 17 juin 17:53 /home/buzzrage/test_LO14/Projet/A
+- rw-r--r-- A 0 17 juin 17:53 /home/buzzrage/test_LO14/Projet/A/test1
+- rw-r--r-- TRUC 307 17 juin 17:53 /home/buzzrage/test_LO14/Projet/A/test1
+d rwxr-xr-x yaa/ 4,0K 17 juin 17:53 /home/buzzrage/test_LO14/Projet/A/test1
+- rw-r--r-- TESTO 67 17 juin 17:53 /home/buzzrage/test_LO14/Projet/A/test1/yaa
+d rwxr-xr-x test2/ 4,0K 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A
+- rw-r--r-- A 0 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A/test2
+- rw-r--r-- blop.txt 2,4K 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A/test2
+- rw-r--r-- TRUC 147 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A/test2
+d rwxr-xr-x test3/ 4,0K 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A
+- rw-r--r-- A 0 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A/test3
+- rw-r--r-- TRUC 147 17 juin 08:38 /home/buzzrage/test_LO14/Projet/A/test3
+- rw-r--r-- TRUC 2,4K 17 juin 08:43 /home/buzzrage/test_LO14/Projet/A
